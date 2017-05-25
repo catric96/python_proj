@@ -1,1 +1,1 @@
-depth first seach application in python
+depth first search application in python
